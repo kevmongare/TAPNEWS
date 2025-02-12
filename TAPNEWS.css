@@ -1,0 +1,80 @@
+body{
+    display: block;
+   margin: 0px;
+   font-family:'Times New Roman', Times, serif;
+   
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+h1 >a{
+    height: 10px;
+   margin-left: 10px;
+    text-decoration: none;
+    color: black;
+}
+input{
+    margin-left: 50px;
+    width: 400px;
+   height: 30px;
+   border-radius: 10px;
+}
+button{
+    /*margin-left: 10px;*/
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+}
+a:hover{
+    color: rgb(255, 0, 0);
+}
+.TAPMENU {
+   /*background-color: rgba(0, 0, 0, 0.317);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;*/
+}
+.TAPMENU  ul{
+    display: flex;
+    padding-right: 10PX;
+
+}
+.TAPMENU  li{
+    display: flex;
+    list-style: none;
+    padding-right: 10PX;
+}
+.TAPMENU  li >a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.TAPMENU  li >a:hover{
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+    padding: 10px;
+}
+
+h2{
+    height: 10px;
+    padding-left: 10px;
+    text-align: left;
+    font-size: 40px;
+   text-align: center;
+    
+}
+video{
+    
+    /*margin: 0;*/
+    height: 320px;
+    border-radius: 30px;
+    text-align: center;
+}
+video:hover
+
+
+\    {
+}
