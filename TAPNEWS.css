@@ -22,12 +22,12 @@ input{
    height: 30px;
    border-radius: 10px;
 }
-button{
-    /*margin-left: 10px;*/
+/*{
+    /*margin-left: 10px;
     border-radius: 5px;
     background-color: green;
     color: white;
-}
+}*/
 a:hover{
     color: rgb(255, 0, 0);
 }
@@ -73,8 +73,13 @@ video{
     border-radius: 30px;
     text-align: center;
 }
-video:hover
-
-
-\    {
+.Anchorpage button{
+    background-color: blue;
+    color: white;
+}
+.Uploadpage{
+    max-width: 500px;
+    padding: 10px;
+    background-color: aqua;
+    align-items: center;
 }
